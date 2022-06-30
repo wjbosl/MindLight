@@ -1,0 +1,7 @@
+max_nt 30
+SEGMENT mid
+device Natus
+sleep awake
+group ied
+write_to_screen True
+resample 128
